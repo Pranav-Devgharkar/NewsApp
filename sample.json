@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Russia-Ukraine War Updates: UN Announces Grain Deal Extension - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMi8xMS8xNy93b3JsZC9ydXNzaWEtdWtyYWluZS13YXItbmV3c9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T12:43:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amir Vera",
+      "title": "Police in Idaho urge public to stay vigilant after students are killed in quadruple homicide and no suspects have been identified - CNN",
+      "description": "With a killer still on the loose, residents of a small college community in Idaho are warned to stay on high alert as authorities try to figure out how four students wound up brutally stabbed to death in a home while two roommates were unharmed and a door lef…",
+      "url": "https://www.cnn.com/2022/11/17/us/university-of-idaho-killings-thursday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116101603-university-of-idaho-victims-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-17T12:27:00Z",
+      "content": "With a killer still on the loose, residents of a small college community in Idaho are warned to stay on high alert as authorities try to figure out how four students wound up brutally stabbed to deat… [+6354 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Russian missiles pound Ukrainian energy facilities and defence plant - Reuters",
+      "description": "Russia pounded Ukrainian energy facilities and a huge rocket booster factory on Thursday in a new wave of missile strikes that Ukrainian officials denounced as terrorism.",
+      "url": "https://www.reuters.com/world/russian-missile-strikes-target-ukrainian-gas-production-facilities-ukraines-pm-2022-11-17/",
+      "urlToImage": "https://www.reuters.com/resizer/LbcVQBtelQOMuAkka5aahCFkGA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WXJXUWF4XJIEBAGR3FIVFPTY44.jpg",
+      "publishedAt": "2022-11-17T12:27:00Z",
+      "content": "KYIV, Nov 17 (Reuters) - Russia pounded Ukrainian energy facilities and a huge rocket booster factory on Thursday in a new wave of missile strikes that Ukrainian officials denounced as terrorism.\r\nEx… [+2800 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "North Korea launches ballistic missile, threatens ‘fiercer’ military response - The Guardian",
+      "description": "The latest missile test comes on the back of expanded military exercises between the US and South Korea",
+      "url": "https://www.theguardian.com/world/2022/nov/17/north-korea-launches-ballistic-missile-threatens-fiercer-military-response",
+      "urlToImage": "https://i.guim.co.uk/img/media/d4fe2ac81e209c754625268cb51cd2d4665faece/0_100_6317_3792/master/6317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a7a606e70c1a347e3114e2b5e9b3698",
+      "publishedAt": "2022-11-17T11:33:00Z",
+      "content": "North Korea launched a short-range ballistic missile Thursday toward its eastern waters, South Koreas military said, hours after the North threatened to launch fiercer military responses to the US bo… [+2815 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "US Midterm Election 2022 Live | Republicans Get Majority In US House | Donald Trump | News18 Live - CNN-News18",
+      "description": "US Midterm Election 2022 Live | Republicans Get Majority In US House | Donald Trump | News18 LiveRepublicans won back the control of the US House of Represen...",
+      "url": "https://www.youtube.com/watch?v=AoYCP8hSf6o",
+      "urlToImage": "https://i.ytimg.com/vi/AoYCP8hSf6o/maxresdefault_live.jpg",
+      "publishedAt": "2022-11-17T11:16:32Z",
+      "content": null
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "Hospitals pushed to the breaking point - Axios",
+      "description": "Hospitals ask for help to keep patients they can't discharge.",
+      "url": "https://www.axios.com/2022/11/17/hospitals-breaking-point",
+      "urlToImage": "https://images.axios.com/iPVz4By5YegavhCeySRYb4J6-O0=/0x0:1920x1080/1366x768/2022/11/16/1668638675826.png",
+      "publishedAt": "2022-11-17T10:40:21Z",
+      "content": "Hospitals are keeping patients longer than they need to, as healthcare worker shortages are making it hard to get some patients into long-term care facilities. Now, hospitals are looking to Congress … [+10796 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Pokémon Scarlet & Violet Nintendo Switch Review - Are They Worth It? - Nintendo Life",
+      "description": "The world is your CloysterReview written by Alana Hagues: https://www.nintendolife.com/reviews/nintendo-switch/pokemon-scarlet-and-violetCheck out our full s...",
+      "url": "https://www.youtube.com/watch?v=-mwkAYKvypQ",
+      "urlToImage": "https://i.ytimg.com/vi/-mwkAYKvypQ/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T10:36:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Turkish ‘cult leader’ Oktar sentenced to 8,658 years in prison - Al Jazeera English",
+      "description": "Oktar was charged with leading a criminal gang, engaging in political and military espionage and sexual abuse of minors.",
+      "url": "https://www.aljazeera.com/news/2022/11/17/turkey-court-sentences-tv-preacher-to-8658-years-in-prison",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/000_17H1KT.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-11-17T10:22:14Z",
+      "content": "An Istanbul court has sentenced a televangelist who surrounded himself with scantily clad women he called kittens to 8,658 years in prison in a retrial, Turkish local media reported.\r\nAdnan Oktar, wh… [+1558 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "SpaceX Employees Say They Were Fired for Speaking Up About Elon Musk - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTcvYnVzaW5lc3Mvc3BhY2V4LXdvcmtlcnMtZWxvbi1tdXNrLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T10:00:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Amelia Lucas",
+      "title": "Starbucks union to strike at more than 100 locations on Red Cup Day, one of the chain's busiest days of the year - CNBC",
+      "description": "At the 113 striking locations, the union will be distributing its own version of the reusable red cup.",
+      "url": "https://www.cnbc.com/2022/11/17/starbucks-union-to-strike-at-more-than-100-locations-on-red-cup-day-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107152924-1668628212615-cups.jpg?v=1668686614&w=1920&h=1080",
+      "publishedAt": "2022-11-17T10:00:01Z",
+      "content": "Workers at more than 100 unionized Starbucks locations plan to strike on Thursday, one of the chain's biggest sales days of the year.\r\nTo celebrate the holiday season, Starbucks every year gives away… [+2391 chars]"
+    },
+    {
+      "source": { "id": null, "name": "INSIDER" },
+      "author": "Palmer Haasch",
+      "title": "Kim Kardashian swore that she and Pete Davidson didn't do anything but bathe when he eagerly joined her in the shower after the Met Gala - Yahoo! Voices",
+      "description": "Kim Kardashian asked her then-boyfriend Pete Davidson if he wanted to shower with her after the 2022 Met Gala, and he leapt at the chance.",
+      "url": "https://www.insider.com/kim-kardashian-pete-davidson-shower-together-met-gala-2022-11",
+      "urlToImage": "https://i.insider.com/637556582d22e7001161f84f?width=1200&format=jpeg",
+      "publishedAt": "2022-11-17T10:00:00Z",
+      "content": "Kim Kardashian swore that she and Pete Davidson didn't do anything other than bathe after they took a shower together post-Met Gala. \r\nIn season two, episode nine of \"The Kardashians,\" all five Karda… [+1538 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Smoking Marijuana May Be Worse for Lungs Than Smoking Cigarettes - SciTechDaily",
+      "description": "Emphysema More Common in Marijuana Smokers Than Cigarette Smokers According to new research, airway inflammation and emphysema are more common in marijuana smokers than cigarette smokers. Investigators said the difference may be due to the way that marijuana …",
+      "url": "https://scitechdaily.com/smoking-marijuana-may-be-worse-for-lungs-than-smoking-cigarettes/",
+      "urlToImage": "https://scitechdaily.com/images/Smoking-Marijuana-Joint.jpg",
+      "publishedAt": "2022-11-17T09:26:04Z",
+      "content": "Airway inflammation and emphysema are more common in marijuana smokers than cigarette smokers, according to new research.\r\nEmphysema More Common in Marijuana Smokers Than Cigarette Smokers\r\nAccording… [+5380 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile",
+      "title": "Samsung Galaxy A52 gets stable Android 13 (One UI 5.0) update - SamMobile - Samsung news",
+      "description": "After rolling out the Android 13 update to the Galaxy A33 5G, Galaxy A53 5G, Galaxy A73 5G, Galaxy M32 ...",
+      "url": "https://www.sammobile.com/news/galaxy-a52-stable-android-13-update-released/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/09/Galaxy-A52s-review-3-720x404.jpg",
+      "publishedAt": "2022-11-17T08:42:00Z",
+      "content": "After rolling out the Android 13 update to the Galaxy A33 5G, Galaxy A53 5G, Galaxy A73 5G, Galaxy M32 5G, and the Galaxy M52 5G, Samsung has released the stable Android 13 (One UI 5.0) update to one… [+805 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine says it's not to blame for Poland missile strike - CNBC",
+      "description": "Ukraine's President Volodymyr Zelenskky says he had \"no doubt\" that Ukraine was not to blame for a missile strike that hit a Polish village on Tuesday evening.",
+      "url": "https://www.cnbc.com/2022/11/17/ukraine-says-its-not-to-blame-for-poland-missile-strike.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107108095-16612759562022-08-23t170445z_1585999418_rc2g2w96ub0w_rtrmadp_0_ukraine-crisis-zelenskiy.jpeg?v=1668671113&w=1920&h=1080",
+      "publishedAt": "2022-11-17T07:45:13Z",
+      "content": "Ukraine's President Volodymyr Zelenskyy said he had \"no doubt\" that his country was not to blame for a missile strike that hit a Polish village, killing two people, despite NATO's initial assessment … [+3651 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Toyota's 2023 Prius is the most fuel-efficient vehicle in the lineup - Engadget",
+      "description": "It comes with a a new lithium-ion battery, which offers a 15 percent increase in output compared to the lineup's old nickel metal battery technology, and a bigger 2-liter gas engine..",
+      "url": "https://www.engadget.com/toyota-2023-prius-064547980.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/59cf24b0-6639-11ed-bbd7-3ae4d97763aa",
+      "publishedAt": "2022-11-17T06:47:07Z",
+      "content": "Toyota has unveiled the latest Prius at an event on the eve of the 2022 Los Angeles Auto Show, and it says the model is the most fuel-efficient entry in the lineup to date. The company designed the 2… [+2855 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile",
+      "title": "Carrier-locked Galaxy S22 units in the US get updated to November 2022 security patch - SamMobile - Samsung news",
+      "description": "Earlier this month, Samsung released the stable Android 13 update to the Galaxy S22 series in the US. However, it ...",
+      "url": "https://www.sammobile.com/news/carrier-locked-galaxy-s22-november-2022-security-update-released-usa/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/07/Samsung-Galaxy-S22-Bora-Purple-720x405.jpg",
+      "publishedAt": "2022-11-17T06:16:00Z",
+      "content": "Earlier this month, Samsung released the stable Android 13 update to the Galaxy S22 series in the US. However, it did not bring the latest security patch to the smartphones in the series. Now, the co… [+984 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "WARRIORS at SUNS | NBA FULL GAME HIGHLIGHTS | November 16, 2022 - NBA",
+      "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://app.li...",
+      "url": "https://www.youtube.com/watch?v=MAH0t65NJqo",
+      "urlToImage": "https://i.ytimg.com/vi/MAH0t65NJqo/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T05:41:02Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Reis Thebault",
+      "title": "Karen Bass becomes first woman elected Los Angeles mayor - The Washington Post",
+      "description": "The Democratic congresswoman will take over the nation's second-largest city at a time when it is embroiled in controversy and division.",
+      "url": "https://www.washingtonpost.com/politics/2022/11/16/bass-mayor-los-angeles/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2E7WQAXUSMI6XEDIX5DDZDDU3Y.jpg&w=1440",
+      "publishedAt": "2022-11-17T05:40:00Z",
+      "content": "Comment on this story\r\nLOS ANGELES U.S. Rep.Karen Bass was elected the next mayor of Los Angeles on Wednesday, taking the reins in the nations second-largest city during an intense period of soul-sea… [+9739 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Nicki Cox",
+      "title": "Pete Davidson and Emily Ratajkowski get cozy in first pics since dating news - Page Six",
+      "description": "It was confirmed earlier this week that Davidson and Ratajkowski are “in the very early stages” of dating.",
+      "url": "https://pagesix.com/2022/11/16/pete-davidson-emily-ratajkowski-seen-together-for-first-time/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/pete-davidson-emily-ratajkowski-dating-rumors-meetup.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-11-17T04:30:00Z",
+      "content": "Pete Davidson and Emily Ratajkowski are already looking like a picture-perfect couple just days after sources revealed the two are dating. \r\nIn photos obtained by Page Six, the pair matched in black … [+3320 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Pence on Jan. 6 threats from Trump: ‘Forgiveness is not optional’ - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzczOTI0MS1wZW5jZS1vbi1qYW4tNi10aHJlYXRzLWZyb20tdHJ1bXAtZm9yZ2l2ZW5lc3MtaXMtbm90LW9wdGlvbmFsL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T03:49:14Z",
+      "content": null
+    }
+  ]
+}
